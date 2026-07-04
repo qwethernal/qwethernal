@@ -3,12 +3,11 @@
 ## 🚀 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,php,python" />
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
 - JavaScript (ES6+)
 - Java *(Basic knowledge)*
-- PHP *(Basic knowledge)*
 - Python
 - SQL
 
