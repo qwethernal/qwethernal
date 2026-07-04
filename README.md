@@ -7,9 +7,9 @@
 </p>
 
 - JavaScript (ES6+)
-- Java
-- PHP
-- Python *(Basic knowledge)*
+- Java *(Basic knowledge)*
+- PHP *(Basic knowledge)*
+- Python
 - SQL
 
 ---
