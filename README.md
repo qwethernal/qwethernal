@@ -133,13 +133,12 @@
 ## 🐳 DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
 - Docker
 - Docker Compose
 - Coolify
-- Linux
 - Git
 - GitHub
 - CI/CD Principles
